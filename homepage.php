@@ -4,6 +4,7 @@
 
 	if(isset($_GET['signup'])){
 		require "includes/createtable.inc.php";
+		$x = 7;
 	}
 ?>
 	<main>
